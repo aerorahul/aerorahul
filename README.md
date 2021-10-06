@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/aerorahul"><img src="https://api.daily.dev/devcards/5bcb964cd76a4fed83c016a970798fc0.png?r=1r5" width="400" alt="Rahul Mahajan's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/aerorahul/aerorahul/blob/master/devcard.svg" width="400" alt="Rahul Mahajan's Dev Card"/></a>
 
 <!--
 **aerorahul/aerorahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
